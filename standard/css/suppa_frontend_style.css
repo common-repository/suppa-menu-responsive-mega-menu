@@ -1,0 +1,373 @@
+/**
+ * Front-End Style File
+ *
+ * @package 	CTFramework
+ * @author		Sabri Taieb ( codezag )
+ * @copyright	Copyright (c) Sabri Taieb
+ * @link		http://codetemp.com
+ * @since		Version 1.0
+ *
+ */
+
+
+/* =General 
+------------------------------------ */
+.suppaMenu_wrap{
+	height: auto !important;
+}
+
+.suppaMenu,
+.suppaMenu_wrap{
+	padding: 0px;
+	margin: 0px;
+	position: relative;
+	text-align: left;
+	margin-left:auto !important;
+	margin-right:auto !important;
+}
+
+.suppaMenu .clearfix {
+	overflow: hidden !important;
+	clear: both !important;
+	float: none !important;
+	height: 0px !important;
+	width: 0px	!important;
+	display: block !important;
+}
+
+.suppaMenu .fr { float: right; }
+.suppaMenu .fl { float: left; }
+
+
+/* =Menus General 
+------------------------------------ */
+.suppa_menu {
+	padding: 0px !important;
+	margin: 0px !important;
+	display: inline-block !important;
+	border:none !important;	
+	position: static;
+}
+	.suppa_menu > a{
+		display: inline-block !important;
+		text-decoration: none !important;
+		position: relative !important;
+	}
+		.suppa_menu > a > .suppa_item_desc{
+			display: none !important;
+		}
+
+		.suppa_menu > a .ctf_suppa_fa_box_top_arrow {
+			position: absolute;
+			line-height:1em !important;
+			display: inline !important;
+		}
+		.suppa_menu > a .suppa_FA_icon_only,
+		.suppa_menu > a .suppa_FA_icon,
+		.suppa_menu > a .suppa_UP_icon_only,
+		.suppa_menu > a .suppa_UP_icon {
+			position: relative !important;
+			line-height:1em !important;
+			display: inline-block !important;
+			float: left;		
+		}
+
+
+/* =Logo 
+------------------------------------ */
+.suppa_menu_logo a {
+	text-align: none;
+}
+
+
+/* =SubMenus General 
+------------------------------------ */
+.suppa_menu_dropdown,
+.suppa_menu_links .suppa_submenu_columns_wrap,
+.suppa_submenu_posts,
+.suppa_submenu_html {
+	display: none;
+	position: absolute;
+}
+
+
+
+
+
+
+/* =SubMenus Links 
+------------------------------------ */
+.suppa_menu_links .suppa_submenu{
+	overflow: hidden !important;
+}
+	.suppa_menu_links .suppa_column{
+		float: left;
+		margin: 0px;
+		padding: 0px;
+		margin-right: 10px;
+	}
+		.suppa_menu_links .suppa_column a{
+			display: block;
+			text-decoration: none;
+		}
+		.suppa_menu_links .suppa_column_title{
+			border-bottom-width:1px;
+			border-bottom-style:solid;
+		}
+		
+		.suppa_submenu_columns_wrap .suppa_FA_icon_only,
+		.suppa_submenu_columns_wrap .suppa_FA_icon,
+		.suppa_submenu_columns_wrap .suppa_UP_icon_only,
+		.suppa_submenu_columns_wrap .suppa_UP_icon {
+			position: relative !important;
+			line-height:1em !important;
+			display: inline-block !important;
+			float: left;		
+		}
+
+/* =SubMenus Posts 
+------------------------------------ */
+.suppa_menu_posts {
+	position: static !important;
+}
+	.suppa_menu_posts .suppa_submenu {
+		width: 100%;
+		overflow: hidden;
+		left: 0px;
+	}
+		.suppa_post {
+			text-decoration: none;
+			overflow: hidden !important;
+			float: left;
+			margin: 0px;
+			padding: 0px;
+			margin-right: 10px;
+			height: auto;
+		}
+			.suppa_post span{
+				display: inline-block !important;
+				float: left !important;
+			}
+			
+			.suppa_post img {
+				float: left !important;
+			}
+
+
+/* =SubMenus DropDown 
+------------------------------------ */
+.suppa_menu_dropdown {
+	position: relative;
+}
+	.suppa_menu_dropdown .suppa_submenu {
+		display: none;
+	}
+	.suppa_menu_dropdown a {
+		display: block !important;
+		text-decoration: none;
+		position: relative !important;
+	}
+	
+	.suppa_menu_dropdown a .era_suppa_arrow_box {
+		position: absolute !important;
+	}
+
+	.suppa_menu_dropdown > .suppa_submenu {
+		position: absolute;
+	}
+		.suppa_menu_dropdown > .suppa_submenu > div {
+			position: relative;
+		}
+
+		.suppa_menu_dropdown > .suppa_submenu .suppa_submenu {
+			position: absolute;
+			top: 0px !important;
+		}
+
+			.suppa_menu_dropdown > .suppa_submenu > div,
+			.suppa_menu_dropdown > .suppa_submenu > div > .suppa_submenu > div {
+				position: relative;
+			}
+
+		.suppa_menu_dropdown .suppa_FA_icon_only,
+		.suppa_menu_dropdown .suppa_FA_icon,
+		.suppa_menu_dropdown .suppa_UP_icon_only,
+		.suppa_menu_dropdown .suppa_UP_icon {
+			position: relative !important;
+			line-height:1em !important;
+			display: inline-block !important;
+			float: left;		
+		}
+
+
+/* =Search Form 
+------------------------------------ */
+.suppa_menu_search .suppa_search_form,
+.suppa_rwd_menu_search .suppa_search_form{
+	position: relative;
+	display: inline-block !important;
+	overflow: hidden !important;
+}
+	.suppa_menu_search .suppa_search_form input,
+	.suppa_rwd_menu_search .suppa_search_form input{
+		padding: 0px;
+		margin: 0px;
+		border: none;
+		background: none;
+		display: inline-block;
+
+		-moz-border-radius: 0px;
+		-webkit-border-radius: 0px;
+		border-radius: 0px;
+		outline: none;
+	}
+	.suppa_menu_search .suppa_search_form button,
+	.suppa_rwd_menu_search .suppa_search_form button{
+		position: absolute;
+		top: 0px;
+		right: 0px;
+		margin: 0px;
+		padding: 0px;
+		background: none;
+		border: none;
+		display: inline-block !important;
+		overflow: hidden;
+
+		-moz-border-radius: 0px;
+		-webkit-border-radius: 0px;
+		border-radius: 0px;
+		outline: none;
+	}
+
+
+/* =Social Media Icons
+------------------------------------ */
+.suppa_menu_social .suppa_FA_icon_only,
+.suppa_menu_social .suppa_FA_icon,
+.suppa_menu_social .suppa_UP_icon_only,
+.suppa_menu_social .suppa_UP_icon {
+	position: relative !important;
+	line-height:1em !important;
+	display: inline-block !important;
+	float: left;		
+}
+
+
+/* =Responsive Web Design
+------------------------------------ */
+.suppaMenu_rwd_wrap{
+	position: relative !important;
+	width: 100% !important;
+	height: auto !important;
+	overflow: hidden !important;
+}
+	.suppa_rwd_menus_container {
+		display: none;
+		position: relative !important;
+		left: 0px !important;
+		top: 0px !important;
+		overflow: hidden !important;
+		width: 100% !important;
+	}
+		.suppa_rwd_top_button_container {
+			overflow: hidden !important;
+			background: none !important;
+			margin: 0px !important;
+			padding: 0px !important;
+			cursor: pointer !important;
+		}	
+
+	.suppa_rwd_menu,
+	.suppa_rwd_menu .suppa_dropdown_item_container ,
+	.suppa_rwd_menu .suppa_dropdown_item_container .suppa_rwd_submenu {
+		display: block !important;
+		width: 100% !important;
+		height: 100%;
+		overflow: hidden !important;
+	}
+
+	.suppa_rwd_menu > a,
+	.suppaMenu_rwd_wrap .suppa_dropdown_item_container a {
+		display: block !important;
+		text-decoration: none;
+		border-right: none !important;
+		border-left: none !important;
+		overflow: hidden !important;
+	}
+	.suppaMenu_rwd_wrap .suppa_dropdown_item_container a {
+		padding-left: 40px !important;
+	}
+	.suppa_rwd_menu .suppa_dropdown_item_container .suppa_rwd_submenu a{
+		padding-left: 60px !important;
+	}
+	.suppaMenu_rwd_wrap .suppa_dropdown_item_container .era_rwd_suppa_arrow_box {
+		display: none !important;
+	}
+
+	.suppa_rwd_menu > .suppa_rwd_submenu {
+		display: none;
+		overflow: hidden !important;
+		width: 100% !important;
+	}
+
+	.suppa_rwd_button {
+		float: right !important;
+		display: inline-block !important;
+		cursor: pointer !important; 
+	}
+
+	.suppa_rwd_text {
+		float: left;
+		cursor: pointer;
+	}
+
+	.era_rwd_suppa_arrow_box {
+		float: right !important;
+		display: inline-block !important;
+		padding: 0px 30px 0px 30px !important;
+	}
+
+	/** Menu Posts **/
+	.suppa_rwd_submenu .suppa_post{
+		float: left !important;
+		display: inline-block !important;
+	}
+
+	/** Menu Links **/
+	.suppa_rwd_submenu_columns_wrap{
+		overflow: hidden;
+	}
+	.suppa_rwd_submenu_columns_wrap .suppa_column a{
+		display: block;
+		text-decoration: none;
+	}
+		.suppa_rwd_submenu_columns_wrap .suppa_column{
+			float: left;
+			margin: 0px;
+			padding: 0px;
+			margin-right: 10px;
+			display:inline-block;
+		}
+			.suppa_rwd_submenu_columns_wrap .suppa_column a{
+				display: block;
+				text-decoration: none;
+			}
+			.suppa_rwd_submenu_columns_wrap .suppa_column_title{
+				border-bottom-width:1px;
+				border-bottom-style:solid;
+			}
+
+	.suppa_rwd_menu_social,
+	.suppa_rwd_menu_logo {
+		display: none !important; 
+	}
+
+	.suppa_rwd_menu a .suppa_FA_icon_only,
+	.suppa_rwd_menu a .suppa_FA_icon,
+	.suppa_rwd_menu a .suppa_UP_icon_only,
+	.suppa_rwd_menu a .suppa_UP_icon {
+		position: relative !important;
+		line-height:1em !important;
+		display: inline-block !important;
+		float: left;		
+	}

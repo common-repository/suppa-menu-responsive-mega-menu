@@ -1,0 +1,1007 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Suppa Menu\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-03-24 11:11+0100\n"
+"PO-Revision-Date: 2014-03-24 11:11+0100\n"
+"Last-Translator: sabri taieb <codezag@gmail.com>\n"
+"Language-Team: sabri taieb <codezag@gmail.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: index.php:185
+msgid "<span class=\"icon ct-wrench\"></span>Settings"
+msgstr ""
+
+#: index.php:186
+msgid "jQuery"
+msgstr ""
+
+#: index.php:187
+msgid "Responsive"
+msgstr ""
+
+#: index.php:188
+msgid "Sticky Menu"
+msgstr ""
+
+#: index.php:189
+msgid "Suppport WP Menus"
+msgstr ""
+
+#: index.php:191
+msgid "<span class=\"icon ct-magic\"></span>Style"
+msgstr ""
+
+#: index.php:192
+msgid "General"
+msgstr ""
+
+#: index.php:193
+#: standard/include/class-suppa_walkers.php:1203
+msgid "Logo"
+msgstr ""
+
+#: index.php:194
+msgid "Top Level Links"
+msgstr ""
+
+#: index.php:195
+msgid "Current Top Level Link"
+msgstr ""
+
+#: index.php:196
+msgid "Top Level Icons"
+msgstr ""
+
+#: index.php:197
+msgid "SubMenu General"
+msgstr ""
+
+#: index.php:198
+msgid "SubMenu Posts"
+msgstr ""
+
+#: index.php:199
+msgid "SubMenu Mega Links"
+msgstr ""
+
+#: index.php:200
+msgid "SubMenu Mega Links Title Icon"
+msgstr ""
+
+#: index.php:201
+msgid "SubMenu Mega Links Links Icon"
+msgstr ""
+
+#: index.php:202
+msgid "SubMenu DropDown"
+msgstr ""
+
+#: index.php:203
+msgid "SubMenu Dropdown Icons"
+msgstr ""
+
+#: index.php:204
+msgid "Search Form"
+msgstr ""
+
+#: index.php:205
+msgid "Social Media"
+msgstr ""
+
+#: index.php:206
+msgid "Responsive W.D"
+msgstr ""
+
+#: index.php:207
+msgid "Responsive W.D Icons"
+msgstr ""
+
+#: standard/include/style-submenu_links.php:19
+msgid "Column Right Margin"
+msgstr ""
+
+#: standard/include/style-submenu_links.php:20
+msgid "Set the column right margin (px)"
+msgstr ""
+
+#: standard/include/style-submenu_links.php:29
+msgid "Title Typography"
+msgstr ""
+
+#: standard/include/style-submenu_links.php:30
+msgid "Set the title typography"
+msgstr ""
+
+#: standard/include/style-submenu_links.php:45
+msgid "Title Color ( Hover )"
+msgstr ""
+
+#: standard/include/style-submenu_links.php:46
+msgid "Set the title color when you hover over"
+msgstr ""
+
+#: standard/include/style-submenu_links.php:56
+msgid "Title Bottom Border Color"
+msgstr ""
+
+#: standard/include/style-submenu_links.php:57
+msgid "Set the title bottom border color"
+msgstr ""
+
+#: standard/include/style-submenu_links.php:66
+msgid "Title Height"
+msgstr ""
+
+#: standard/include/style-submenu_links.php:67
+#: standard/include/style-submenu_links.php:134
+#: standard/include/style-dropdown.php:59
+msgid "Set the title height"
+msgstr ""
+
+#: standard/include/style-submenu_links.php:73
+msgid "Title Padding"
+msgstr ""
+
+#: standard/include/style-submenu_links.php:95
+msgid "Set the title padding ( Left , Right )"
+msgstr ""
+
+#: standard/include/style-submenu_links.php:107
+#: standard/include/style-dropdown.php:9
+msgid "Links Typography"
+msgstr ""
+
+#: standard/include/style-submenu_links.php:108
+#: standard/include/style-dropdown.php:10
+msgid "Set the links typography"
+msgstr ""
+
+#: standard/include/style-submenu_links.php:123
+#: standard/include/style-dropdown.php:25
+msgid "Links Color ( Hover )"
+msgstr ""
+
+#: standard/include/style-submenu_links.php:124
+msgid "Set the Links color when you hover over"
+msgstr ""
+
+#: standard/include/style-submenu_links.php:133
+#: standard/include/style-dropdown.php:58
+msgid "Links Height"
+msgstr ""
+
+#: standard/include/style-submenu_links.php:140
+#: standard/include/style-dropdown.php:65
+msgid "Links Padding"
+msgstr ""
+
+#: standard/include/style-submenu_links.php:162
+#: standard/include/style-dropdown.php:87
+msgid "Set the links padding ( Left , Right )"
+msgstr ""
+
+#: standard/include/style-rwd_icons.php:8
+#: standard/include/style-social.php:37
+#: standard/include/style-submenu_mega_link_icons.php:8
+msgid "FontAwesome Icons Size"
+msgstr ""
+
+#: standard/include/style-rwd_icons.php:9
+#: standard/include/style-social.php:38
+#: standard/include/style-submenu_mega_link_icons.php:9
+msgid "Set the FontAwesome icons size ( px )"
+msgstr ""
+
+#: standard/include/style-rwd_icons.php:16
+#: standard/include/style-social.php:45
+#: standard/include/style-submenu_mega_link_icons.php:16
+msgid "FontAwesome Icon Margin"
+msgstr ""
+
+#: standard/include/style-rwd_icons.php:38
+#: standard/include/style-social.php:67
+#: standard/include/style-submenu_mega_link_icons.php:38
+msgid "Set the font awesome icon margin ( Top , Right )"
+msgstr ""
+
+#: standard/include/style-rwd_icons.php:47
+#: standard/include/style-social.php:76
+#: standard/include/style-submenu_mega_link_icons.php:47
+msgid "Uploaded Icons width"
+msgstr ""
+
+#: standard/include/style-rwd_icons.php:48
+#: standard/include/style-social.php:77
+#: standard/include/style-submenu_mega_link_icons.php:48
+msgid "Set the Uploaded icons width ( px )"
+msgstr ""
+
+#: standard/include/style-rwd_icons.php:57
+#: standard/include/style-social.php:86
+#: standard/include/style-submenu_mega_link_icons.php:57
+msgid "Uploaded Icons height"
+msgstr ""
+
+#: standard/include/style-rwd_icons.php:58
+#: standard/include/style-social.php:87
+#: standard/include/style-submenu_mega_link_icons.php:58
+msgid "Set the Uploaded icons height ( px )"
+msgstr ""
+
+#: standard/include/style-rwd_icons.php:64
+#: standard/include/style-social.php:93
+#: standard/include/style-submenu_mega_link_icons.php:64
+msgid "Uploaded Icon Margin"
+msgstr ""
+
+#: standard/include/style-rwd_icons.php:86
+#: standard/include/style-social.php:115
+#: standard/include/style-submenu_mega_link_icons.php:86
+msgid "Set the uploaded icon margin ( Top , Right )"
+msgstr ""
+
+#: standard/include/style-rwd_icons.php:92
+#: standard/include/style-social.php:121
+#: standard/include/style-submenu_mega_link_icons.php:92
+msgid "Only Icons Margin"
+msgstr ""
+
+#: standard/include/style-rwd_icons.php:114
+#: standard/include/style-social.php:143
+#: standard/include/style-submenu_mega_link_icons.php:114
+msgid "This options is when you check \"Only Icon\" ( Margin Top , Margin Right )"
+msgstr ""
+
+#: standard/include/style-top_level.php:20
+msgid "Top Links Typography"
+msgstr ""
+
+#: standard/include/style-top_level.php:21
+msgid "Set the top links typography"
+msgstr ""
+
+#: standard/include/style-top_level.php:37
+msgid "Color ( Hover )"
+msgstr ""
+
+#: standard/include/style-top_level.php:38
+msgid "Set the top links color when you hover over"
+msgstr ""
+
+#: standard/include/style-top_level.php:48
+msgid "Background ( Hover )"
+msgstr ""
+
+#: standard/include/style-top_level.php:49
+msgid "Set the top links background color when you hover over"
+msgstr ""
+
+#: standard/include/style-top_level.php:55
+msgid "Padding"
+msgstr ""
+
+#: standard/include/style-top_level.php:77
+msgid "Set the padding ( Left, Right )"
+msgstr ""
+
+#: standard/include/style-top_level.php:87
+msgid "Top Link Border color"
+msgstr ""
+
+#: standard/include/style-top_level.php:88
+msgid "Set the top links border color"
+msgstr ""
+
+#: standard/include/style-top_level.php:94
+#: standard/include/style-dropdown.php:96
+msgid "Arrow Style"
+msgstr ""
+
+#: standard/include/style-top_level.php:141
+msgid "Set the arrow style ( Size , Color , Color[Hover] , Margin Right , Margin Top )"
+msgstr ""
+
+#: standard/include/style-social.php:5
+msgid "Social Link Margin"
+msgstr ""
+
+#: standard/include/style-social.php:27
+msgid "Set the social links margin ( Left , Right )"
+msgstr ""
+
+#: standard/include/style-search_form.php:15
+msgid "Search Form Margin"
+msgstr ""
+
+#: standard/include/style-search_form.php:47
+msgid "Set the search form margin ( Top , Right , Left )"
+msgstr ""
+
+#: standard/include/style-search_form.php:57
+msgid "Input Width"
+msgstr ""
+
+#: standard/include/style-search_form.php:58
+msgid "Set the width of the search input"
+msgstr ""
+
+#: standard/include/style-search_form.php:68
+msgid "Input Height"
+msgstr ""
+
+#: standard/include/style-search_form.php:69
+msgid "Set the height of the search input"
+msgstr ""
+
+#: standard/include/style-search_form.php:79
+msgid "Input Backgound Color"
+msgstr ""
+
+#: standard/include/style-search_form.php:80
+msgid "Set the input backgound color"
+msgstr ""
+
+#: standard/include/style-search_form.php:90
+msgid "Button Backgound Color"
+msgstr ""
+
+#: standard/include/style-search_form.php:91
+msgid "Set the button backgound color"
+msgstr ""
+
+#: standard/include/style-search_form.php:101
+msgid "Button Icon Color"
+msgstr ""
+
+#: standard/include/style-search_form.php:102
+msgid "Set the button icon color"
+msgstr ""
+
+#: standard/include/style-search_form.php:112
+msgid "Button Icon Padding"
+msgstr ""
+
+#: standard/include/style-search_form.php:113
+msgid "Set the button icon padding ( Left + Right )"
+msgstr ""
+
+#: standard/include/style-search_form.php:122
+msgid "Search Text Typography"
+msgstr ""
+
+#: standard/include/style-search_form.php:123
+msgid "Set the search text typography"
+msgstr ""
+
+#: standard/include/style-search_form.php:134
+msgid "Search Text Padding"
+msgstr ""
+
+#: standard/include/style-search_form.php:156
+msgid "Set the search text padding ( Left , Right )"
+msgstr ""
+
+#: standard/include/style-search_form.php:162
+msgid "Input Border Radius"
+msgstr ""
+
+#: standard/include/style-search_form.php:204
+msgid "Set the border radius ( Top Left , Top Right , Bottom Right , Bottom Left )"
+msgstr ""
+
+#: standard/include/settings-jquery.php:9
+msgid "Enable jQuery on noConflict Mode"
+msgstr ""
+
+#: standard/include/settings-jquery.php:10
+msgid "Enable jquery on noConflict mode "
+msgstr ""
+
+#: standard/include/settings-jquery.php:21
+msgid "jQuery Trigger"
+msgstr ""
+
+#: standard/include/settings-jquery.php:22
+msgid "set the jquery trigger"
+msgstr ""
+
+#: standard/include/settings-jquery.php:33
+msgid "jQuery Animation"
+msgstr ""
+
+#: standard/include/settings-jquery.php:34
+msgid "set the jquery animation"
+msgstr ""
+
+#: standard/include/settings-jquery.php:53
+msgid "Animation Time"
+msgstr ""
+
+#: standard/include/settings-jquery.php:54
+msgid "set the jquery animation Time ( by millisecond )"
+msgstr ""
+
+#: standard/include/style.php:7
+msgid "Custom CSS "
+msgstr ""
+
+#: standard/include/style.php:8
+msgid "Add your custom css"
+msgstr ""
+
+#: standard/include/style-current_top_link.php:9
+msgid "Current Top Link color"
+msgstr ""
+
+#: standard/include/style-current_top_link.php:10
+msgid "Set the current top links color"
+msgstr ""
+
+#: standard/include/style-current_top_link.php:20
+msgid "Current Top Link Background Color"
+msgstr ""
+
+#: standard/include/style-current_top_link.php:21
+msgid "Set the current top links background color"
+msgstr ""
+
+#: standard/include/style-current_top_link.php:31
+msgid "Current Top Link Arrow Color "
+msgstr ""
+
+#: standard/include/style-current_top_link.php:32
+msgid "Set the current top links arrow color"
+msgstr ""
+
+#: standard/include/class-suppa_walkers.php:100
+msgid "Select Menu Location"
+msgstr ""
+
+#: standard/include/class-suppa_walkers.php:133
+msgid "Select Location"
+msgstr ""
+
+#: standard/include/class-suppa_walkers.php:1012
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: standard/include/class-suppa_walkers.php:1041
+#: standard/include/class-suppa_walkers.php:1043
+msgid "Edit Menu Item"
+msgstr ""
+
+#: standard/include/class-suppa_walkers.php:1052
+msgid "URL"
+msgstr ""
+
+#: standard/include/class-suppa_walkers.php:1059
+msgid "Navigation Label"
+msgstr ""
+
+#: standard/include/class-suppa_walkers.php:1066
+msgid "Title Attribute"
+msgstr ""
+
+#: standard/include/class-suppa_walkers.php:1072
+msgid "link Target"
+msgstr ""
+
+#: standard/include/class-suppa_walkers.php:1074
+msgid "Same window or tab"
+msgstr ""
+
+#: standard/include/class-suppa_walkers.php:1075
+msgid "New window or tab"
+msgstr ""
+
+#: standard/include/class-suppa_walkers.php:1081
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: standard/include/class-suppa_walkers.php:1087
+msgid "link Relationship (XFN)"
+msgstr ""
+
+#: standard/include/class-suppa_walkers.php:1093
+msgid "Description"
+msgstr ""
+
+#: standard/include/class-suppa_walkers.php:1110
+msgid "Choose the menu type"
+msgstr ""
+
+#: standard/include/class-suppa_walkers.php:1161
+msgid "Submenu Width"
+msgstr ""
+
+#: standard/include/class-suppa_walkers.php:1182
+msgid "Search Text"
+msgstr ""
+
+#: standard/include/class-suppa_walkers.php:1219
+msgid "Logo ( Retina )"
+msgstr ""
+
+#: standard/include/class-suppa_walkers.php:1235
+msgid "Width ( px )"
+msgstr ""
+
+#: standard/include/class-suppa_walkers.php:1251
+msgid "Height ( px )"
+msgstr ""
+
+#: standard/include/class-suppa_walkers.php:1271
+#: standard/include/class-suppa_walkers.php:1470
+msgid "FullWidth"
+msgstr ""
+
+#: standard/include/class-suppa_walkers.php:1310
+#: standard/include/class-suppa_walkers.php:1494
+msgid "Container Width"
+msgstr ""
+
+#: standard/include/class-suppa_walkers.php:1330
+#: standard/include/class-suppa_walkers.php:1514
+msgid "Align"
+msgstr ""
+
+#: standard/include/class-suppa_walkers.php:1351
+msgid "Column Width"
+msgstr ""
+
+#: standard/include/class-suppa_walkers.php:1374
+msgid "Select a Category"
+msgstr ""
+
+#: standard/include/class-suppa_walkers.php:1414
+msgid "Posts Number"
+msgstr ""
+
+#: standard/include/class-suppa_walkers.php:1448
+msgid "WordPress Editor"
+msgstr ""
+
+#: standard/include/class-suppa_walkers.php:1552
+msgid "Position"
+msgstr ""
+
+#: standard/include/class-suppa_walkers.php:1574
+msgid "Use icon only"
+msgstr ""
+
+#: standard/include/class-suppa_walkers.php:1612
+#: standard/include/class-suppa_walkers.php:1651
+msgid "Icon"
+msgstr ""
+
+#: standard/include/class-suppa_walkers.php:1631
+msgid "Icon (Retina)"
+msgstr ""
+
+#: standard/include/class-suppa_walkers.php:1697
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: standard/include/class-suppa_walkers.php:1710
+msgid "Remove"
+msgstr ""
+
+#: standard/include/style-dropdown.php:26
+msgid "Set the links color when you hover over"
+msgstr ""
+
+#: standard/include/style-dropdown.php:36
+msgid "Links Background Color ( Hover )"
+msgstr ""
+
+#: standard/include/style-dropdown.php:37
+msgid "Set the links background color when user hover over"
+msgstr ""
+
+#: standard/include/style-dropdown.php:47
+msgid "Links Bottom Border Color"
+msgstr ""
+
+#: standard/include/style-dropdown.php:48
+msgid "Set the links bottom border color"
+msgstr ""
+
+#: standard/include/style-dropdown.php:143
+msgid "Set the dropdown arrow style ( Size , Color , Color[Hover] , Margin Right , Margin Top )"
+msgstr ""
+
+#: standard/include/style-submenu_posts.php:19
+msgid "Post Thumbnail Width"
+msgstr ""
+
+#: standard/include/style-submenu_posts.php:20
+msgid "Set the post Thumbnail width"
+msgstr ""
+
+#: standard/include/style-submenu_posts.php:30
+msgid "Post Thumbnail Height"
+msgstr ""
+
+#: standard/include/style-submenu_posts.php:31
+msgid "Set the post Thumbnail height"
+msgstr ""
+
+#: standard/include/style-submenu_posts.php:37
+msgid "Post Margin"
+msgstr ""
+
+#: standard/include/style-submenu_posts.php:79
+msgid "Set the post margin ( Top , Right , Bottom , Left )"
+msgstr ""
+
+#: standard/include/style-submenu_posts.php:88
+msgid "Post Link Typography"
+msgstr ""
+
+#: standard/include/style-submenu_posts.php:89
+msgid "Set the post link typography"
+msgstr ""
+
+#: standard/include/style-submenu_posts.php:104
+msgid "Post Link Color ( Hover )"
+msgstr ""
+
+#: standard/include/style-submenu_posts.php:105
+msgid "Set the post link color when you hover over"
+msgstr ""
+
+#: standard/include/style-submenu_posts.php:111
+msgid "Post Link Padding"
+msgstr ""
+
+#: standard/include/style-submenu_posts.php:153
+msgid "Set the post link padding ( Top , Right , Bottom , Left )"
+msgstr ""
+
+#: standard/include/style-rwd.php:18
+msgid "Container Background"
+msgstr ""
+
+#: standard/include/style-rwd.php:19
+msgid "Set the rwd container background"
+msgstr ""
+
+#: standard/include/style-rwd.php:30
+msgid "3Bars Icon Size"
+msgstr ""
+
+#: standard/include/style-rwd.php:31
+msgid "Set rwd 3bars icon size"
+msgstr ""
+
+#: standard/include/style-rwd.php:41
+msgid "3Bars Icon Color"
+msgstr ""
+
+#: standard/include/style-rwd.php:42
+msgid "Set rwd 3bars icon color"
+msgstr ""
+
+#: standard/include/style-rwd.php:52
+msgid "3Bars Right Margin"
+msgstr ""
+
+#: standard/include/style-rwd.php:53
+msgid "Set rwd 3bars icon right margin"
+msgstr ""
+
+#: standard/include/style-rwd.php:63
+msgid "RWD Text Typography"
+msgstr ""
+
+#: standard/include/style-rwd.php:64
+msgid "Set rwd text typography"
+msgstr ""
+
+#: standard/include/style-rwd.php:79
+msgid "RWD Text Left Margin"
+msgstr ""
+
+#: standard/include/style-rwd.php:80
+msgid "Set rwd Text left margin"
+msgstr ""
+
+#: standard/include/style-rwd.php:92
+msgid "Main Links Height"
+msgstr ""
+
+#: standard/include/style-rwd.php:93
+msgid "Set main links height"
+msgstr ""
+
+#: standard/include/style-rwd.php:103
+msgid "Main Links Typography"
+msgstr ""
+
+#: standard/include/style-rwd.php:104
+msgid "Set the main links typography"
+msgstr ""
+
+#: standard/include/style-rwd.php:121
+msgid "Set the main links color when user hover over"
+msgstr ""
+
+#: standard/include/style-rwd.php:131
+#: standard/include/style-submenu_general.php:29
+#: standard/include/style-general.php:57
+msgid "Background"
+msgstr ""
+
+#: standard/include/style-rwd.php:132
+msgid "Set the main links background color"
+msgstr ""
+
+#: standard/include/style-rwd.php:143
+msgid "Set the main links background color when you hover over"
+msgstr ""
+
+#: standard/include/style-rwd.php:153
+msgid "Bottom Border Color"
+msgstr ""
+
+#: standard/include/style-rwd.php:154
+msgid "Set the main links bottom border color"
+msgstr ""
+
+#: standard/include/style-rwd.php:163
+msgid "Main Link Left Margin"
+msgstr ""
+
+#: standard/include/style-rwd.php:164
+msgid "Set rwd main links left margin"
+msgstr ""
+
+#: standard/include/style-rwd.php:208
+msgid "Submenus Padding"
+msgstr ""
+
+#: standard/include/style-rwd.php:250
+msgid "Set the submenus padding ( Top , Right , Bottom , Left )"
+msgstr ""
+
+#: standard/include/settings-sticky.php:9
+msgid "Enable Scrolling Menu"
+msgstr ""
+
+#: standard/include/settings-sticky.php:10
+msgid "Enable scrolling menu , and watch your menu scrolling ( very nice )"
+msgstr ""
+
+#: standard/include/settings-sticky.php:21
+msgid "Enable Scrolling Menu on Mobile"
+msgstr ""
+
+#: standard/include/settings-sticky.php:22
+msgid "Enable scrolling menu smartphones and tablets"
+msgstr ""
+
+#: standard/include/settings-rwd.php:10
+msgid "Enable Responsive Design on Mobile "
+msgstr ""
+
+#: standard/include/settings-rwd.php:11
+msgid "Enable the responsive design mobile devices( IOS, Android ... )"
+msgstr ""
+
+#: standard/include/settings-rwd.php:22
+msgid "Enable Responsive Design Desktops / Laptops"
+msgstr ""
+
+#: standard/include/settings-rwd.php:23
+msgid "Enable the responsive design on desktops and laptops"
+msgstr ""
+
+#: standard/include/settings-rwd.php:35
+msgid "RWD Trigger Mode"
+msgstr ""
+
+#: standard/include/settings-rwd.php:36
+msgid "Click on link mode , User must hold on link to open it"
+msgstr ""
+
+#: standard/include/settings-rwd.php:54
+msgid "RWD Start Work When Device <= To This Width"
+msgstr ""
+
+#: standard/include/settings-rwd.php:55
+msgid "Set the width for RWD to start work"
+msgstr ""
+
+#: standard/include/settings-rwd.php:65
+msgid "Add Responsive Text "
+msgstr ""
+
+#: standard/include/settings-rwd.php:66
+msgid "Add a text like \"Responsive Menu\""
+msgstr ""
+
+#: standard/include/settings-general.php:14
+#: standard/include/settings-general.php:15
+msgid "Choose Your Layout Style"
+msgstr ""
+
+#: standard/include/style-logo.php:15
+msgid "Logo Padding"
+msgstr ""
+
+#: standard/include/style-logo.php:47
+msgid "Set the padding ( Top , Left , Right )"
+msgstr ""
+
+#: standard/include/style-submenu_general.php:18
+msgid "Top Position"
+msgstr ""
+
+#: standard/include/style-submenu_general.php:19
+msgid "Make this the same as the \"Menu Height\" , if you are not sure"
+msgstr ""
+
+#: standard/include/style-submenu_general.php:30
+msgid "Set the submenu background"
+msgstr ""
+
+#: standard/include/style-submenu_general.php:38
+#: standard/include/style-general.php:66
+msgid "Background Gradient"
+msgstr ""
+
+#: standard/include/style-submenu_general.php:60
+#: standard/include/style-general.php:88
+msgid "Set the background gradient color ( ex : from #000 to #fff )"
+msgstr ""
+
+#: standard/include/style-submenu_general.php:66
+#: standard/include/style-general.php:94
+msgid "Borders"
+msgstr ""
+
+#: standard/include/style-submenu_general.php:148
+#: standard/include/style-general.php:176
+msgid "Set the Borders ( Top , Right , Bottom , Left )"
+msgstr ""
+
+#: standard/include/style-submenu_general.php:154
+#: standard/include/style-general.php:182
+msgid "Box Shadow"
+msgstr ""
+
+#: standard/include/style-submenu_general.php:186
+#: standard/include/style-general.php:214
+msgid "Set the box shadow ( Distance , Blur , Color )"
+msgstr ""
+
+#: standard/include/style-submenu_general.php:192
+#: standard/include/style-general.php:220
+msgid "Border Radius"
+msgstr ""
+
+#: standard/include/settings-theme_implementation.php:9
+msgid "Support WP 3.+ Menus"
+msgstr ""
+
+#: standard/include/settings-theme_implementation.php:10
+msgid "Enable this if your theme does not support wordpress 3.+ menus, then paste this code &#60;?php suppa_implement(); ?&#62; in your header.php after body tag"
+msgstr ""
+
+#: standard/include/style-general.php:21
+msgid "Menu Z-index"
+msgstr ""
+
+#: standard/include/style-general.php:22
+msgid "Set the menu z-index"
+msgstr ""
+
+#: standard/include/style-general.php:32
+msgid "Menu Width"
+msgstr ""
+
+#: standard/include/style-general.php:33
+msgid "Set the menu width"
+msgstr ""
+
+#: standard/include/style-general.php:44
+msgid "Menu Height"
+msgstr ""
+
+#: standard/include/style-general.php:45
+msgid "Set the menu height"
+msgstr ""
+
+#: standard/include/style-general.php:58
+msgid "Set the menu background"
+msgstr ""
+
+#: core/ctf_options.class.php:134
+#: core/ctf_options.class.php:183
+#: core/ctf_options.class.php:232
+#: core/ctf_options.class.php:280
+#: core/ctf_options.class.php:332
+#: core/ctf_options.class.php:390
+#: core/ctf_options.class.php:445
+#: core/ctf_options.class.php:499
+#: core/ctf_options.class.php:549
+#: core/ctf_options.class.php:603
+#: core/ctf_options.class.php:728
+#: core/ctf_options.class.php:849
+msgid "<h1>DEBUG : ID Exists </h1>"
+msgstr ""
+
+#: core/ctf_options.class.php:564
+msgid "Upload"
+msgstr ""
+
+#: core/ctf_options.class.php:684
+msgid "Demo"
+msgstr ""
+
+#: core/ctf_options.class.php:994
+#: core/ctf_options.class.php:1106
+#: core/ctf_options.class.php:1124
+msgid "Funny Business ?"
+msgstr ""
+
+#: core/ctf_options.class.php:1048
+msgid "Settings Updated"
+msgstr ""
+
+#: core/ctf_options.class.php:1066
+msgid "Settings Reset"
+msgstr ""
+
+#: core/ctf_options.class.php:1081
+#: core/ctf_options.class.php:1102
+msgid "Deleted"
+msgstr ""
+
+#: core/ctf_options.class.php:1133
+msgid "Settings Imported"
+msgstr ""
+
+#: core/ctf_setup.class.php:74
+msgid " - Backup Settings"
+msgstr ""
+
+#: core/ctf_setup.class.php:75
+msgid "Backup Settings"
+msgstr ""
+
+#: core/ctf_setup.class.php:187
+msgid "Data Imported"
+msgstr ""
+
+#: core/ctf_setup.class.php:330
+msgid "Support Forum"
+msgstr ""
+
+#: core/ctf_setup.class.php:335
+msgid "Guide"
+msgstr ""
+
+#: core/ctf_setup.class.php:338
+#: core/ctf_setup.class.php:358
+msgid "Save Settings"
+msgstr ""
+
+#: core/ctf_setup.class.php:359
+msgid "Reset Settings"
+msgstr ""
+
+#: core/class-get_categories.php:24
+msgid "Choose a Category"
+msgstr ""
+
